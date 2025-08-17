@@ -10,6 +10,7 @@
 - Sets each employee's spawn point (idle locatino) to the access point of their locker.
 - Employees will warp or walk to the new point on assignment if idle.
 - If the access point is inaccessible, their spawn point will not be changed.
+- Assignment is one time, not 'live', if locker(s) are moved or replaced it will need to run again. 
 ---
 ## Reference
 ### Update 1.0.0
