@@ -1,0 +1,9 @@
+{
+    "name": "",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/GuysWeForgotDre/",
+    "description": "",
+    "dependencies": [
+    "LavaGang-MelonLoader-0.7.0"
+    ]
+}
